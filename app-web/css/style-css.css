@@ -1,0 +1,97 @@
+body {
+    background-color: #3B2061;
+}
+
+#main-container {
+    background-color: rgba(255, 255, 255, 0.109);
+    padding: 20px;
+    margin: 50px auto;
+    width: 500px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.5);
+}
+
+.col-3, .col-9 {
+    background-color: white;
+}
+
+#new-task {
+    background-color: white;
+    box-shadow: 0 0 0 0;
+    border: 0 none;
+    left: 0;
+}
+
+#insert-button {
+    color: black;
+    font-size: 15pt;
+    text-decoration: none;
+    background-color: white;
+    box-shadow: 0 0 0 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+#list {
+    background-color: white;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding: 20px;
+}
+
+li {
+    color: black;
+    font-family: 'Raleway', sans-serif;
+}
+
+#list-group {
+    margin-bottom: 20px;
+}
+
+#clean-button, #delete-button {
+    color: black;
+    font-size: 15pt;
+    box-shadow: 0 0 0 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.btn-group {
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+span {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    margin: auto;
+}
+
+h5 {
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    margin: auto auto 20px auto;
+}
+
+#circles-color0 {
+    background-color: #A993BF;
+}
+
+#circles-color1 {
+    background-color: #6A36D9;
+}
+
+#circles-color2 {
+    background-color: #762EA6;
+}
+
+#circles-color3 {
+    background-color: #5B2A8C;
+}
+
+.change-colors {
+    width: 15px;
+    height: 15px;
+    margin: 5px;
+    float: left;
+    border-radius: 10px;
+    box-shadow: 2px 2px 4px black;
+}
